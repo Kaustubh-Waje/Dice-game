@@ -1,0 +1,64 @@
+@font-face {
+  font-family:pixel ;
+  src: url(resources/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf) format("opentype");
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'pixel',cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #960035;
+}
+
+p {
+  font-size: 2rem;
+  color: #2000aa;
+  font-family: 'pixel',cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.button{
+  color: #4ECCA3;
+  padding: 15px 32px;
+  font-size: 20px;
+  font-family: 'pixel';
+  border-radius: 40px;
+  border-color: #4ECCA3;
+  transition-duration: 0.4s;
+  background-color: #191c22;
+}
+.button:hover {
+  background-color: #04AA6D; 
+  color: white;
+}
+
+footer {
+  margin-top: 5%;
+  color: #070000;
+  text-align: center;
+  font-family: 'pixel',cursive;
+
+}
