@@ -1,1 +1,3 @@
-https://kaustubh-waje.github.io/Dice-game/dicee.html
+DICE GAME
+<br>
+https://dice-game-steel-gamma.vercel.app/dicee.html
